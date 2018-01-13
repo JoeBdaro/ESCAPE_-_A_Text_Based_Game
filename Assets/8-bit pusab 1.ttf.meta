@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f5d0a62cb6f8c024a8be3c87869282be
+timeCreated: 1510986834
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 8-bit pusab
+  fontNames:
+  - 8-bit pusab
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5c78daf0fa8bdf245880c42223751d84, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
